@@ -1,0 +1,6 @@
+@CVision_HostAddress = http://localhost:5054
+
+GET {{CVision_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
